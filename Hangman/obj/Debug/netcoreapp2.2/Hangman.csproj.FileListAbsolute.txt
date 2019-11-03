@@ -1,0 +1,11 @@
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\bin\Debug\netcoreapp2.2\Hangman.deps.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\bin\Debug\netcoreapp2.2\Hangman.runtimeconfig.dev.json
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\bin\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\bin\Debug\netcoreapp2.2\Hangman.pdb
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.csprojAssemblyReference.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfoInputs.cache
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.AssemblyInfo.cs
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.dll
+C:\Users\knolb\Documents\mahoofdmap\bewijzenmap\periode1.1\pro2\Hangman\obj\Debug\netcoreapp2.2\Hangman.pdb
